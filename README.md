@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = https://user-images.githubusercontent.com/65931605/203580136-aaed6b1d-76d0-47d4-b055-60ddd072a418.png height=290 width=1200>
+<img src = https://user-images.githubusercontent.com/65931605/203580136-aaed6b1d-76d0-47d4-b055-60ddd072a418.png height=240 width=1000>
 #콘텐츠IT학과 #디지털미디어학과 #Unity #Photoshop #Figma
 
 ---
