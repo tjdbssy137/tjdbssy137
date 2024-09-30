@@ -1,9 +1,3 @@
-### Hi there 👋
-<img src = https://user-images.githubusercontent.com/65931605/203580136-aaed6b1d-76d0-47d4-b055-60ddd072a418.png height=250 width=1000>
-#콘텐츠IT학과 #디지털미디어학과 #Unity #Photoshop #Figma
-
----
-
 
 <img src="https://img.shields.io/badge/Unity-0079C1?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C -0062AD?style=for-the-badge&logo=C &logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-0559C9?style=for-the-badge&logo=C Sharp&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Photoshop-00ACC1?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Figma-00ACC1?style=for-the-badge&logo=Figma&logoColor=white">
 
